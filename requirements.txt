@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-SQLAlchemy
-databases
-stripe
-pydantic
